@@ -1,5 +1,7 @@
 # Components, Auto Layouts & Groups Spotter
 
+Try the LIVE Plugin here: https://www.figma.com/community/plugin/1400007208660250101/components-auto-layouts-groups-spotter
+
 Components, Auto Layouts & Groups Spotter is a Figma plugin that helps you quickly identify and highlight different types of frames in your Figma designs. With this plugin, you can easily visualize and distinguish between frames with Auto Layout, frames without Auto Layout, components, and non-component frames.
 
 ## Features
